@@ -1,3 +1,4 @@
+![](curriculum.png)
 Aulas
 
 
